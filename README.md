@@ -1,9 +1,9 @@
 # Requirements
 
-*requests
-*python
+* requests
+* python
 
-#Features:
+# Features:
 * add phone call and sms 
 * unlimited send E-Mails
 
@@ -13,4 +13,4 @@
 * python MailKiller.py
 
 #
-*Enjoy
+* Enjoy

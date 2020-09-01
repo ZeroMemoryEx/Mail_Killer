@@ -5,7 +5,7 @@
 
 # Features:
 * add phone call and sms 
-* unlimited send E-Mails
+* unlimited spam E-Mails
 
 # USAGE
 * For linux

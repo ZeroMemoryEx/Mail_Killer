@@ -4,8 +4,8 @@
 * python
 
 # Features:
-* add phone call and sms 
-* unlimited spam E-Mails
+* will add phone call and sms 
+* will  add unlimited spam E-Mails
 
 # USAGE
 * For linux
